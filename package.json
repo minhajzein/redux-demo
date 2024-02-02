@@ -1,0 +1,27 @@
+{
+	"name": "redux-demo",
+	"version": "1.0.0",
+	"description": "learn about the redux library",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/minhajzein/redux-demo.git"
+	},
+	"author": "minhajzein",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/minhajzein/redux-demo/issues"
+	},
+	"homepage": "https://github.com/minhajzein/redux-demo#readme",
+	"dependencies": {
+		"redux": "^5.0.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.3"
+	}
+}
